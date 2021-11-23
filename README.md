@@ -12,3 +12,4 @@ This is for voting on the Raid Guild Season 3 Cohort Logo
 | O | ![G](https://cdn.discordapp.com/attachments/910709474350731264/910887734028152882/raidguild_logo_v3.png) |
 | P | ![H](https://cdn.discordapp.com/attachments/910709474350731264/910850813663010816/raid_guild_s3_logo.png) |
 | Q | ![J](https://cdn.discordapp.com/attachments/910709474350731264/911792520034398268/Group_123.png) |
+| R | ![J](https://cdn.discordapp.com/attachments/910709474350731264/912043803383324722/Cohort_1s_story.png) |
